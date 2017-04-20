@@ -1,0 +1,30 @@
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\bin\Debug\testvswinform.exe.config
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\testvswinform.login.resources
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\testvswinform.Properties.Resources.resources
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\testvswinform.csproj.GenerateResource.Cache
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\bin\Debug\testvswinform.exe
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\bin\Debug\testvswinform.pdb
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\testvswinform.exe
+D:\我的文档\Visual Studio 2008\Projects\testvswinform\testvswinform\obj\Debug\testvswinform.pdb
+D:\testvswinform - 副本\testvswinform\bin\Debug\testvswinform.exe.config
+D:\testvswinform - 副本\testvswinform\obj\Debug\testvswinform.exe
+D:\testvswinform - 副本\testvswinform\obj\Debug\testvswinform.pdb
+E:\Chuang\WinForm\testvswinform\testvswinform\bin\Debug\testvswinform.exe.config
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.exe
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.pdb
+E:\Chuang\WinForm\testvswinform\testvswinform\bin\Debug\testvswinform.exe
+E:\Chuang\WinForm\testvswinform\testvswinform\bin\Debug\testvswinform.pdb
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.csprojResolveAssemblyReference.cache
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.login.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.Properties.Resources.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.csproj.GenerateResource.Cache
+E:\Chuang\WinForm\testvswinform\testvswinform\bin\Debug\MySql.Data.dll
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.Main.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.Create.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.MachineManageDialog.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.MaterialManageDialog.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.TunnelManageDialog.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.User.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.SystemSetting.resources
+E:\Chuang\WinForm\testvswinform\testvswinform\obj\Debug\testvswinform.View.TestCard.resources
